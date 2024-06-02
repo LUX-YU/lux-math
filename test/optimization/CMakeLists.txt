@@ -1,0 +1,2 @@
+add_executable(gradient_descent gradient_descent.cpp)
+target_link_libraries(gradient_descent lux::math)
